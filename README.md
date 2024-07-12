@@ -1,2 +1,2 @@
-# pgdocker_compose
-subindo um banco com docker-compose e alterando sua config
+# Postgresql usando Docker e docker-compose.
+Possibilidade de customizar as configuracoes do pg através do postgresql.conf
